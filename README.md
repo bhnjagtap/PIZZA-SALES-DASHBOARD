@@ -1,6 +1,6 @@
 # Pizza Sales 2024 Dashboard
 
-![Pizza Sales Dashboard](path_to_your_image)
+![Pizza Sales Dashboard](C:\Users\ADMIN\Pictures\Screenshots\1.png)
 
 This project showcases a Power BI dashboard created for the analysis of Pizza Sales in 2024. The dashboard provides insightful visualizations of sales data, helping businesses understand key trends, top-performing products, and overall sales performance.
 
@@ -38,6 +38,4 @@ This Power BI project serves as a valuable tool for analyzing pizza sales data, 
 
 Feel free to explore the dashboards and leverage the insights for your own analysis or business strategies!
 
-![Best/Worst Sellers Dashboard](PIZZA-SALES-DASHBOARD
-/Screenshot (1711).png
-)
+![Best/Worst Sellers Dashboard](C:\Users\ADMIN\Pictures\Screenshots\2.png)
