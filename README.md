@@ -38,4 +38,4 @@ This Power BI project serves as a valuable tool for analyzing pizza sales data, 
 
 Feel free to explore the dashboards and leverage the insights for your own analysis or business strategies!
 
-![Best/Worst Sellers Dashboard](path_to_your_image)
+![Best/Worst Sellers Dashboard](Screenshot (1710).png)
